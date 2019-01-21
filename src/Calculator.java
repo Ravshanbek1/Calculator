@@ -4,7 +4,7 @@ public class Calculator {
         return num1 + num2;
     }
 
-    public static double subtract(double num1, double num2){git
+    public static double subtract(double num1, double num2){
         return num1 - num2;
    // }
 //
@@ -20,6 +20,6 @@ public class Calculator {
     public static double add1(double num1, double num2){
     return num1 + num2;
     }
-    public static double multiply1(double num1, double num2){
+    public static void multiply1(double num1, double num2){
     }
 }

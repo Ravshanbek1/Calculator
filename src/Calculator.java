@@ -12,10 +12,12 @@ public class Calculator {
         return num1 * num2;
     }
 //      public static double divide(double n1, double n2){
+    //LOCAL REPO: Comment 1
 //          return n1 / n2;
 //    }
       public static double modules(double num1, double num2){
           return num1 % num2;
+          // LOCAL REPO: Comment 2
     }
 
     public static double add1(double num1, double num2) {

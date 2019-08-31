@@ -33,10 +33,16 @@ Calculator {
         return result;
 
     }
+<<<<<<< HEAD
     public static double divid(double d1, double d2){
       double result = d1 / d2;
       return result;
     }
+=======
+    public static double divide(double nu1, double nu2){
+        return nu1 / nu2;
+>>>>>>> refs/remotes/origin/master
 }
 
 //git clone https://github.com/SeleniumHQ/selenium.git
+//test commit

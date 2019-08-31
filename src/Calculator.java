@@ -1,4 +1,5 @@
-public class Calculator {
+public class
+Calculator {
     //this is a very useful meethod.
     public static double add(double num1, double num2) {
         return num1 + num2;
@@ -31,6 +32,10 @@ public class Calculator {
         double result = n1 / n2;
         return result;
 
+    }
+    public static double divid(double d1, double d2){
+      double result = d1 / d2;
+      return result;
     }
 }
 
